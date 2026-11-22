@@ -1,71 +1,150 @@
-# Hi, I'm Anupama! 👋
+# 👋 Hello, I'm Anupama!
 
-### Software Engineer | Web Developer | Technology Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+Meaningful+Digital+Experiences;Exploring+AI-Powered+Solutions;Turning+Ideas+Into+Reality" alt="Developer introduction" />
+</p>
 
-Building meaningful digital experiences through clean code, creative thinking, and modern technologies.
+<p align="center">
+  <b>Full-Stack Developer | Software Engineering Enthusiast | Lifelong Learner</b>
+</p>
 
-[🌐 Portfolio](https://my-portfolio.sproshinianupama.workers.dev/) · [💻 GitHub](https://github.com/sproshinianupama) · 
+<p align="center">
+  Creating modern applications, solving real-world problems, and continuously exploring new technologies.
+</p>
+
+<p align="center">
+  <a href="https://my-portfolio.sproshinianupama.workers.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/sproshinianupama">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## 💫 About Me
 
-- Passionate about developing practical and user-friendly software solutions.
-- Interested in modern web development and AI-powered applications.
-- Enjoy turning innovative ideas into functional digital products.
-- Continuously learning, experimenting, and improving my development skills.
+I'm a passionate Full-Stack Developer interested in designing, developing, and improving modern software applications.
 
-## 🛠️ Technologies & Tools
+- 💻 Interested in full-stack development and software engineering.
+- 🤖 Exploring AI-powered applications and intelligent solutions.
+- 🚀 Enjoy transforming creative ideas into practical applications.
+- 🧩 Interested in solving real-world technical challenges.
+- 🌱 Always learning, experimenting, and improving my skills.
+- 🎯 Focused on writing maintainable code and building meaningful products.
 
-**Frontend Development**
-- React.js
-- Next.js
-- HTML5
-- CSS3
-- JavaScript
+---
 
-**Other technologies**
+## 🛠️ Tech Stack & Tools
 
-Add your actual backend, database, programming languages, frameworks and development tools here.
+### Languages & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vite" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Areas of Interest
+- Full-Stack Application Development
+- AI & Machine Learning Integration
+- REST API Development
+- Database Management
+- Responsive Web Design
+- Software Architecture
+
+---
 
 ## 🚀 Featured Projects
 
-### 1. AI Caregiving Platform
-An application focused on using technology to improve caregiving experiences.
+### 01. AI Caregiving Platform
 
-### 2. Seafarer Registration System
-A web-based project focused on seafarer registration and information management.
+An AI-powered caregiving application designed to improve caregiver discovery, scheduling, and care coordination.
 
-### 3. E-commerce Application
-A digital shopping application with an interactive user experience.
+**Key Features**
+- Caregiver matching
+- Smart scheduling
+- Predictive booking requests
+- Authentication and user management
+- Interactive map integration
+- AI/ML-based functionality
 
-### 4. Hotel Booking System
-A web application designed to simplify hotel booking experiences.
+**Technologies:** React, Vite, Node.js, Express, MongoDB, AI/ML components.
 
-**Explore my projects:** [GitHub Repositories](https://github.com/sproshinianupama?tab=repositories)
+[🔗 View Source Code](https://github.com/sproshinianupama/ai-caregiving-platform)
 
-## 📊 GitHub Statistics
+### 02. Personal Developer Portfolio
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sproshinianupama&show_icons=true&theme=tokyonight)
+My personal portfolio website, presenting my development journey, projects, and technical capabilities.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sproshinianupama&layout=compact&theme=tokyonight)
+**Highlights**
+- Personal developer identity
+- Project presentation
+- Professional portfolio experience
 
-## 🌱 Currently Exploring
+**Live Website:** [Visit Portfolio](https://my-portfolio.sproshinianupama.workers.dev/)
 
-- AI-powered application development
-- Modern frontend technologies
-- Full-stack software engineering
-- Better software architecture and development practices
-
-## 🤝 Let's Connect!
-
-I'm always interested in learning, collaborating, and building innovative projects.
-
-- Portfolio: https://my-portfolio.sproshinianupama.workers.dev/
-- GitHub: https://github.com/sproshinianupama
-- LinkedIn: www.linkedin.com/in/roshini-anupama-49210a283
-- Email: sproshinianupama@gmail.com
+[🔗 View Source Code](https://github.com/sproshinianupama/my-portfolio)
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile! Let's build something amazing.*
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sproshinianupama&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sproshinianupama&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sproshinianupama&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sproshinianupama&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sproshinianupama/sproshinianupama/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- Modern full-stack development practices
+- AI-powered software applications
+- Scalable application architecture
+- Better user experiences and responsive interfaces
+- Emerging technologies and development tools
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/sproshinianupama">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://my-portfolio.sproshinianupama.workers.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-0EA5E9?style=for-the-badge&logo=googlechrome" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b><br/>
+  <i>Building today. Innovating tomorrow. 🚀</i>
+</p>
