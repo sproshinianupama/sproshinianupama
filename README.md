@@ -128,16 +128,31 @@ A personal portfolio showcasing my technical capabilities, development journey, 
 
 ---
 
-### ⚡ What's Next?
 
-```text
-> Exploring emerging technologies...
-> Building intelligent applications...
-> Improving software engineering skills...
-> Turning innovative ideas into reality...
+<h2 align="center">⚡ What's Next?</h2>
 
-STATUS: ALWAYS BUILDING 🚀
-```
+<p align="center">
+  <b>Always learning. Always building. Always evolving.</b>
+</p>
+
+<p align="center">
+  🌱 Exploring emerging technologies
+  <br/>
+  🤖 Building intelligent applications
+  <br/>
+  💻 Improving software engineering skills
+  <br/>
+  🚀 Turning innovative ideas into reality
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white"/>
+</p>
+
+<p align="center">
+  <i>Every line of code is another step forward.</i> ✨
+</p>
+
 
 <p align="center">
   <b>More ideas. More innovation. More projects coming soon.</b>
