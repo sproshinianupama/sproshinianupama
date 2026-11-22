@@ -65,34 +65,83 @@ I'm a passionate Full-Stack Developer interested in designing, developing, and i
 
 ## 🚀 Featured Projects
 
-### 01. AI Caregiving Platform
+<p align="center">
+  <b>Engineering ideas into meaningful digital experiences.</b>
+</p>
+
+---
+
+### 🤖 01 | AI Caregiving Platform
+
+> Intelligent caregiving. Smarter coordination. Better experiences.
 
 An AI-powered caregiving application designed to improve caregiver discovery, scheduling, and care coordination.
 
-**Key Features**
-- Caregiver matching
-- Smart scheduling
-- Predictive booking requests
-- Authentication and user management
-- Interactive map integration
-- AI/ML-based functionality
+**⚡ Core Capabilities**
 
-**Technologies:** React, Vite, Node.js, Express, MongoDB, AI/ML components.
+| Feature | Description |
+|---|---|
+| 🧠 AI Integration | AI/ML-powered functionality |
+| 👥 Caregiver Matching | Discover suitable caregivers |
+| 📅 Smart Scheduling | Manage caregiving schedules |
+| 📍 Map Integration | Interactive location features |
+| 🔐 Authentication | User authentication and management |
+| 📊 Predictive Requests | Predictive booking functionality |
 
-[🔗 View Source Code](https://github.com/sproshinianupama/ai-caregiving-platform)
+**🛠️ Technology Stack**
 
-### 02. Personal Developer Portfolio
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-My personal portfolio website, presenting my development journey, projects, and technical capabilities.
+<p align="center">
+  <a href="https://github.com/sproshinianupama/ai-caregiving-platform">
+    <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-**Highlights**
-- Personal developer identity
-- Project presentation
-- Professional portfolio experience
+---
 
-**Live Website:** [Visit Portfolio](https://my-portfolio.sproshinianupama.workers.dev/)
+### 💻 02 | Personal Developer Portfolio
 
-[🔗 View Source Code](https://github.com/sproshinianupama/my-portfolio)
+> My digital identity. My creativity. My development journey.
+
+A personal portfolio showcasing my technical capabilities, development journey, and software projects.
+
+**✨ Highlights**
+
+- 🎨 Professional developer identity
+- 💡 Creative project presentation
+- 🌐 Personal portfolio website
+- 🚀 Software development showcase
+
+<p align="center">
+  <a href="https://my-portfolio.sproshinianupama.workers.dev/">
+    <img src="https://img.shields.io/badge/VISIT%20LIVE%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/sproshinianupama/my-portfolio">
+    <img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚡ What's Next?
+
+```text
+> Exploring emerging technologies...
+> Building intelligent applications...
+> Improving software engineering skills...
+> Turning innovative ideas into reality...
+
+STATUS: ALWAYS BUILDING 🚀
+```
+
+<p align="center">
+  <b>More ideas. More innovation. More projects coming soon.</b>
+</p>
 
 ---
 
